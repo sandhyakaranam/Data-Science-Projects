@@ -1,1 +1,1 @@
-# ExploratoryDataAnalysis
+# AIML Projects
