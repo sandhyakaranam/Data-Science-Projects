@@ -1,1 +1,1 @@
-# Compilation of Python programming code
+# Compilation of Python programming code for different Data Science projects using Supervised Machine Learning models - Linear Regression, Logistic Regression, Decision Tree, Random forest, Bagging Classifier, AdaBoost, Gradient Boosting, XGBoost. 
